@@ -180,5 +180,94 @@
                 }
             ]
         }
-    ]
+    ],
+    "inquirydetail":[
+        {
+            "connectInquiryNo": 1,
+            "inquiryNo": 1,
+            "inquiryInfos": [
+                {
+                    "officeCode":,
+                    "inquiryNo":,
+                    "status":,
+                    "inputType":,
+                    "customerConditionKbn":,
+                    "emergencyKbn":,
+                    "inquiryKbn1":,
+                    "inquiryKbn2":,
+                    "inquiryInsertUserId":,
+                    "inquiryInsertDatetime":,
+                    "schoolCode":,
+                    "schoolName":,
+                    "schoolNameKana":,
+                    "prefecture":,
+                    "applicationKbn":,
+                    "concurrentKbn":,
+                    "closingDate":,
+                    "studentNameKana":,
+                    "studentName":,
+                    "sexKbn":,
+                    "currentStudentKbn":,
+                    "belongingCode":,
+                    "inTelRelationshipKbn":,
+                    "inTelNameKana":,
+                    "inTelName":,
+                    "contactTel":,
+                    "contactDate":,
+                    "contactTime":,
+                    "contactMailAddress":,
+                    "orderTel":,
+                    "shippingPost":,
+                    "shippingAddressKana":,
+                    "shippingAddress":,
+                    "inquiryContent":,
+                    "supportContent":,
+                    "escalationKbn":,
+                    "callBackTelKbn":,
+                    "orderJournalMainInfo":[
+                        {
+                            "studentName":,
+                            "studentNameKana":,
+                            "guardianName":,
+                            "guardianNameKana":,
+                            "tel":,
+                            "tax":,
+                            "post":,
+                            "address1":,
+                            "address2":,
+                            "address3":,
+                            "embroideryName":,
+                            "examinationNo":,
+                            "delivery1Tel":,
+                            "delivery1Post":,
+                            "delivery1Address1":,
+                            "delivery1Address2":,
+                            "delivery1Address3":,
+                            "delivery1Receiver":,
+                            "delivery1Timekbn":,
+                            "delivery2Tel":,
+                            "delivery2Post":,
+                            "delivery2Address1":,
+                            "delivery2Address2":,
+                            "delivery2Address3":,
+                            "delivery2Receiver":,
+                            "delivery2Time":
+                            "orderJournalDetailInfos":[
+                                {   
+                                    "orderDetailNo":,
+                                    "seasonKbn":,
+                                    "productCode":,
+                                    "colorCode":,
+                                    "sizeCode":,
+                                    "orderNum":,
+                                    "retailPrice":,
+                                    "process1":,
+                                    "process2":,
+                                    "mainCompanyFlg":
+                                }
+                            ]
+                        }
+                    ]
+                }
+        
 }
